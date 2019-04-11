@@ -5,4 +5,4 @@ Learning-JS
 
 ##### Sections
 
-* [Variables](https://github.com/Matelaa/Learning-JS/tree/master/Variaveis)
+* [Variables](https://github.com/Matelaa/Learning-JS/tree/master/Variables)
