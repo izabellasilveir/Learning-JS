@@ -6,3 +6,5 @@ Learning-JS
 ##### Sections
 
 * [Variables](https://github.com/Matelaa/Learning-JS/tree/master/Variables)
+
+* [Data Types](https://github.com/Matelaa/Learning-JS/tree/master/Data-Types)
