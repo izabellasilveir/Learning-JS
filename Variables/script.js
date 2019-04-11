@@ -48,3 +48,4 @@ favotireFood = 'Beef'
 var oloco, bixo, brincadeira, em, meu
 
 console.log(name, age, favotireFood, oloco, bixo, brincadeira, em, meu)
+
