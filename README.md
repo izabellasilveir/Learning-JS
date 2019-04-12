@@ -12,3 +12,5 @@ Learning-JS
 * [Numbers & Operators](https://github.com/Matelaa/Learning-JS/tree/master/Numbers-Operators)
 
 * [Boolean & Conditions](https://github.com/Matelaa/Learning-JS/tree/master/Boolean-Conditions)
+
+* [Functions](https://github.com/Matelaa/Learning-JS/tree/master/Functions)
