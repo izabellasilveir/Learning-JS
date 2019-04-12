@@ -14,3 +14,5 @@ Learning-JS
 * [Boolean & Conditions](https://github.com/Matelaa/Learning-JS/tree/master/Boolean-Conditions)
 
 * [Functions](https://github.com/Matelaa/Learning-JS/tree/master/Functions)
+
+* [Objects](https://github.com/Matelaa/Learning-JS/tree/master/Objects)
