@@ -16,3 +16,5 @@ Learning-JS
 * [Functions](https://github.com/Matelaa/Learning-JS/tree/master/Functions)
 
 * [Objects](https://github.com/Matelaa/Learning-JS/tree/master/Objects)
+
+* [Everything is Object](https://github.com/Matelaa/Learning-JS/tree/master/Everything-Is-Object)
