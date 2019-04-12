@@ -10,3 +10,5 @@ Learning-JS
 * [Data Types](https://github.com/Matelaa/Learning-JS/tree/master/Data-Types)
 
 * [Numbers & Operators](https://github.com/Matelaa/Learning-JS/tree/master/Numbers-Operators)
+
+* [Boolean & Conditions](https://github.com/Matelaa/Learning-JS/tree/master/Boolean-Conditions)
