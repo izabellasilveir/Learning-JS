@@ -3,24 +3,30 @@ Learning-JS
 
 ### Yes, they are going to have very silly things here, sorry haha
 
-##### Sections
+#### Sections
 
-* [Variables](https://github.com/Matelaa/Learning-JS/tree/master/Variables)
+#### JavaScript for Beginners
 
-* [Data Types](https://github.com/Matelaa/Learning-JS/tree/master/Data-Types)
+In this module you will find some basic JavaScript stuff like
 
-* [Numbers & Operators](https://github.com/Matelaa/Learning-JS/tree/master/Numbers-Operators)
+* [Variables](https://github.com/Matelaa/Learning-JS/tree/master/JavaScript%20for%20Beginners/Variables)
 
-* [Boolean & Conditions](https://github.com/Matelaa/Learning-JS/tree/master/Boolean-Conditions)
+* [Data Types](https://github.com/Matelaa/Learning-JS/tree/master/JavaScript%20for%20Beginners/Data-Types)
 
-* [Functions](https://github.com/Matelaa/Learning-JS/tree/master/Functions)
+* [Numbers & Operators](https://github.com/Matelaa/Learning-JS/tree/master/JavaScript%20for%20Beginners/Numbers-Operators)
 
-* [Objects](https://github.com/Matelaa/Learning-JS/tree/master/Objects)
+* [Boolean & Conditions](https://github.com/Matelaa/Learning-JS/tree/master/JavaScript%20for%20Beginners/Boolean-Conditions)
 
-* [Everything is Object](https://github.com/Matelaa/Learning-JS/tree/master/Everything-Is-Object)
+* [Functions](https://github.com/Matelaa/Learning-JS/tree/master/JavaScript%20for%20Beginners/Functions)
 
-* [Arrays & Loops](https://github.com/Matelaa/Learning-JS/tree/master/Arrays-Loops)
+* [Objects](https://github.com/Matelaa/Learning-JS/tree/master/JavaScript%20for%20Beginners/Objects)
 
-* [Assignment & Ternary](https://github.com/Matelaa/Learning-JS/tree/master/Assignment-Ternary)
+* [Everything is Object](https://github.com/Matelaa/Learning-JS/tree/master/JavaScript%20for%20Beginners/Everything-Is-Object)
 
-* [Scope](https://github.com/Matelaa/Learning-JS/tree/master/Scope)
+* [Arrays & Loops](https://github.com/Matelaa/Learning-JS/tree/master/JavaScript%20for%20Beginners/Arrays-Loops)
+
+* [Assignment & Ternary](https://github.com/Matelaa/Learning-JS/tree/master/JavaScript%20for%20Beginners/Assignment-Ternary)
+
+* [Scope](https://github.com/Matelaa/Learning-JS/tree/master/JavaScript%20for%20Beginners/Scope)
+
+* [Link to see all we have in this module in a general way](https://github.com/Matelaa/Learning-JS/tree/master/JavaScript%20for%20Beginners)
