@@ -7,7 +7,8 @@ Learning-JS
 
 #### JavaScript for Beginners
 
-In this module you will find some basic JavaScript stuff like
+#### In this module you will find some basic JavaScript stuff like
+<hr></hr>
 
 * [Variables](https://github.com/Matelaa/Learning-JS/tree/master/JavaScript%20for%20Beginners/Variables)
 
