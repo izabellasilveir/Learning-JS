@@ -22,3 +22,5 @@ Learning-JS
 * [Arrays & Loops](https://github.com/Matelaa/Learning-JS/tree/master/Arrays-Loops)
 
 * [Assignment & Ternary](https://github.com/Matelaa/Learning-JS/tree/master/Assignment-Ternary)
+
+* [Scope](https://github.com/Matelaa/Learning-JS/tree/master/Scope)
