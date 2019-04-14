@@ -20,3 +20,5 @@ Learning-JS
 * [Everything is Object](https://github.com/Matelaa/Learning-JS/tree/master/Everything-Is-Object)
 
 * [Arrays & Loops](https://github.com/Matelaa/Learning-JS/tree/master/Arrays-Loops)
+
+* [Assignment & Ternary](https://github.com/Matelaa/Learning-JS/tree/master/Assignment-Ternary)
