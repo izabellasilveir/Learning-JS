@@ -2,8 +2,10 @@ Learning-JS
 =================
 
 ### Yes, they are going to have very silly things here, sorry haha
+<hr></hr>
 
 #### Sections
+<hr></hr>
 
 #### JavaScript for Beginners
 
