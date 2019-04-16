@@ -30,11 +30,11 @@ addNewValue()
 console.log(addNewValue()) // The value of this variable nos is 25
 
 /*
-Crie uma função com as seguintes características:
-1. A função deve receber 3 argumentos;
-2. Se qualquer um dos três argumentos não estiverem preenchidos, a função deve retornar a string:
-    Preencha todos os valores corretamente!
-3. O retorno da função deve ser a multiplicação dos 3 argumentos, somando `2` ao resultado da multiplicação.
+Create a function with the following characteristics:
+1. The function must receive 3 arguments;
+2. If any of the three arguments are not filled in, the function should return the string:
+    Fill in all values ​​correctly!
+3. The return of the function must be the multiplication of the 3 arguments, adding `2` to the multiplication result.
 */
 function multiplicationPlus(num1, num2, num3) {
     if (num1 === undefined || num2 === undefined || num3 === undefined) {
@@ -45,28 +45,26 @@ function multiplicationPlus(num1, num2, num3) {
     }
 }
 
-// Invoque a função criada acima, passando só dois números como argumento.
+// Invoke the function created above, passing only two numbers as an argument.
 multiplicationPlus(1, 2)
 
-// Qual o resultado da invocação acima? (Use comentários para mostrar o valor retornado).
-console.log(multiplicationPlus(1, 2))
-// 'Fill in all values correctly'
+// What is the result of the above invocation? (Use comments to show the value returned)
+console.log(multiplicationPlus(1, 2)) // 'Fill in all values correctly'
 
-// Agora invoque novamente a função criada acima, mas passando todos os três argumentos necessários.
+// Now invoke the function created above, but pass all three arguments required.
 multiplicationPlus(1, 2, 3)
 
-// Qual o resultado da invocação acima? (Use comentários para mostrar o valor retornado).
-console.log(multiplicationPlus(1, 2, 3))
-// 8
+// What is the result of the above invocation? (Use comments to show the value returned)
+console.log(multiplicationPlus(1, 2, 3)) // 8
 
 /*
-Crie uma função com as seguintes características:
-1. A função deve receber 3 argumentos.
-2. Se somente um argumento for passado, retorne o valor do argumento.
-3. Se dois argumentos forem passados, retorne a soma dos dois argumentos.
-4. Se todos os argumentos forem passados, retorne a soma do primeiro com o segundo, e o resultado, dividido pelo terceiro.
-5. Se nenhum argumento for passado, retorne o valor booleano `false`.
-6. E ainda, se nenhuma das condições acima forem atendidas, retorne `null`.
+Create a function with the following characteristics:
+1. The function must receive 3 arguments.
+2. If only one argument is passed, return the value of the argument.
+3. If two arguments are passed, return the sum of the two arguments.
+4. If all arguments are passed, return the sum of the first with the second, and the result, divided by the third.
+5. If no argument is passed, return the boolean value `false`.
+6. Also, if none of the above conditions are met, return `null`.
 */
 function awesomeFunction(num1, num2, num3) {
     if (num1 !== undefined && num2 === undefined && num3 === undefined) {
@@ -82,7 +80,8 @@ function awesomeFunction(num1, num2, num3) {
     }
 }
 
-// Invoque a função acima utilizando todas as possibilidades (com nenhum argumento, com um, com dois e com três.) Coloque um comentário de linha ao lado da função com o resultado de cada invocação.
+// Invoke the above function using all possibilities (with no arguments, with one, two, and three.) 
+// Put a line comment next to the function with the result of each invocation.
 console.log(awesomeFunction(1))
 // 1
 console.log(awesomeFunction(1, 1))
