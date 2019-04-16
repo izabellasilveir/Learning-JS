@@ -45,3 +45,7 @@ Learning-JS
 * [Variables, Data Types, Operators, Functions](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-01)
 
 * [logic Operators, Unary Operators, Lexic Structure, Conditional Structures (if)](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-02)
+
+* [Data Types, Objects, Objects Methods](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-03)
+
+* [Truthy Falsy, Ternary Condition, Variable and Functions Scope](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-04)
