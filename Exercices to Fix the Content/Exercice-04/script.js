@@ -130,39 +130,39 @@ always use the invocation format of the method (or call the property),
 adding _inline_ comments to the side with the value returned, if the method
 return some value.
 
-Qual a cor atual do carro?
+What is the current color of the car?
 */
 console.log(car.getColor()) // 'Black'
 
-// Mude a cor do carro para vermelho.
+// Change the color of the car to red.
 car.setColor('Red')
 
-// E agora, qual a cor do carro?
+// Now what's the color of the car?
 console.log(car.getColor()) // Red
 
-// Mude a cor do carro para verde musgo.
+// Change the color of the car to moss green.
 car.setColor('Moss Green')
 
-// E agora, qual a cor do carro?
+// Now what's the color of the car?
 console.log(car.getColor()) // Moss Green
 
-// Qual a marca e modelo do carro?
+// What is the make and model of the car?
 console.log(car.getMarkModel()) // This car is a Toyota Corolla
 
-// Adicione 2 pessoas no carro.
+// Add 2 people in the car.
 console.log(car.addPeople(2)) // We have 2 peoples in the car
 
-// Adicione mais 4 pessoas no carro.
+// Add another 4 people in the car.
 console.log(car.addPeople(4)) // Only fit 3 more peoples in the car
 
-// Faça o carro encher.
+// Make the car fill.
 console.log(car.addPeople(3)) // We have 5 peoples in the car
 
-// Tire 4 pessoas do carro.
+// Get 4 people out of the car.
 console.log(car.addPeople(-4)) // We have 1 people in the car
 
-// Adicione 10 pessoas no carro.
+// Add 10 people in the car.
 console.log(car.addPeople(10)) // Only fit 4 more peoples in the car
 
-// Quantas pessoas temos no carro?
+// How many people do we have in the car?
 console.log(car.quantityPeople) // 1
