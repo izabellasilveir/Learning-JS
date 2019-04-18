@@ -88,28 +88,28 @@ function myFunction2(arg) {
 myFunction2(obj) // 'JS'
 */
 /*
-Crie uma variável qualquer, que receba um array com alguns valores aleatórios
-- ao menos 5 - (fica por sua conta os valores do array).
+Create any variable, which receives an array with some random values
+- at least 5 - (the array values ​​are on your own).
 */
 let myArray = [1, 'José', true, false, 2]
 
 /*
-Crie uma função que receba um array como parâmetro, e retorne esse array.
+Create a function that receives an array as a parameter, and return that array.
 */
 function returnArray(arg) {
     return arg
 }
 
 /*
-Imprima o segundo índice do array retornado pela função criada acima.
+Print the second index of the array returned by the function created above.
 */
 console.log(returnArray(myArray)[1])
 
 /*
-Crie uma função que receba dois parâmetros: o primeiro, um array de valores; e o
-segundo, um número. A função deve retornar o valor de um índice do array que foi passado
-no primeiro parâmetro. O índice usado para retornar o valor, deve ser o número passado no
-segundo parâmetro.
+Create a function that takes two parameters: the first, an array of values; it's the
+second, a number. The function should return the value of an array index that was passed
+in the first parameter. The index used to return the value must be the number passed in the
+second parameter.
 */
 // ?
 function arrayIndex(arr, index) {
@@ -117,14 +117,15 @@ function arrayIndex(arr, index) {
 }
 
 /*
-Declare uma variável que recebe um array com 5 valores, de tipos diferentes.
+
+Declare a variable that receives an array of 5 values, of different types.
 */
 // ?
-let receive = ['JS', 19, true, false, [1, 'José', 777]]
+let receive = ['JS', 19, true, false, [1, 'José', 777.7]]
 
 /*
-Invoque a função criada acima, fazendo-a retornar todos os valores do último
-array criado.
+Invoke the function created above, making it return all the values ​​of the last
+array created.
 */
 // ?
 for (let i = 0; i < receive.length; i++) {
@@ -132,18 +133,18 @@ for (let i = 0; i < receive.length; i++) {
 }
 
 /*
-Crie uma função chamada `book`, que recebe um parâmetro, que será o nome do
-livro. Dentro dessa função, declare uma variável que recebe um objeto com as
-seguintes características:
-- esse objeto irá receber 3 propriedades, que serão nomes de livros;
-- cada uma dessas propriedades será um novo objeto, que terá outras 3
-propriedades:
-    - `quantidadePaginas` - Number (quantidade de páginas)
-    - `autor` - String
-    - `editora` - String
-- A função deve retornar o objeto referente ao livro passado por parâmetro.
-- Se o parâmetro não for passado, a função deve retornar o objeto com todos
-os livros.
+Create a function called `book`, which receives a parameter, which will be the name of the
+book. Within this function, declare a variable that receives an object with the
+following characteristics:
+- this object will receive 3 properties, which will be names of books;
+- each of these properties will be a new object, which will have other 3
+properties:
+    - `pages' - Number (number of pages)
+    - `author` - String
+    - `company` - String
+- The function must return the object referring to the book passed by parameter.
+- If the parameter is not passed, the function must return the object with all
+the books.
 */
 // ?
 function book(name) {
@@ -168,32 +169,32 @@ function book(name) {
 }
 
 /*
-Usando a função criada acima, imprima o objeto com todos os livros.
+Using the function created above, print the object with all the books.
 */
 // ?
 console.log(book())
 
 /*
-Ainda com a função acima, imprima a quantidade de páginas de um livro qualquer,
-usando a frase:
-"O livro [NOME_DO_LIVRO] tem [X] páginas!"
+Still with the function above, print the number of pages of any book,
+using the phrase:
+"The [BOOKNAME] book has [X] pages!"
 */
 // ?
 let bookName = 'JavaScript'
-console.log(`The book ${bookName} have ${book(bookName).pages} pages`)
+console.log(`The book ${bookName} has ${book(bookName).pages} pages`)
 
 /*
-Ainda com a função acima, imprima o nome do autor de um livro qualquer, usando
-a frase:
-"O autor do livro [NOME_DO_LIVRO] é [AUTOR]."
+Still with the above function, print the name of the author of any book, using
+the phrase:
+"The author of [BOOKNAME] is [AUTHOR]."
 */
 // ?
 console.log(`The author of ${bookName} is ${book(bookName).author}`)
 
 /*
-Ainda com a função acima, imprima o nome da editora de um livro qualquer, usando
-a frase:
-"O livro [NOME_DO_LIVRO] foi publicado pela editora [NOME_DA_EDITORA]."
+Still with the above function, print the name of the publisher of any book, using
+the phrase:
+"The [BOOKNAME] book has been published by the [COMPANYNAME] publisher."
 */
 // ?
 console.log(`The book ${bookName} was published by ${book(bookName).publishingCompany} company`)
