@@ -46,8 +46,8 @@ function showTeamPosition(position) {
 console.log(showTeamPosition(0))
 
 /*
-Escolha 4 times do campeonato selecionado e mostre a posição dele, usando a
-função acima. Entre esses 4, adicione 1 que não esteja entre os 5 primeiros.
+Choose 4 teams from the selected league and show their position, using the
+function above. Among those 4, add 1 that is not in the top 5.
 */
 // ?
 let i = 0
@@ -56,8 +56,8 @@ while (i <= teams.length) {
 }
 
 /*
-Mostre os números de 20 a 30 no console (inclusive o 30), usando a estrutura de
-repetição "while".
+Show the numbers from 20 to 30 on the console (including the 30), using the
+while.
 */
 // ?
 let number = 20
@@ -66,16 +66,16 @@ while (number <= 30) {
 }
 
 /*
-Crie uma função chamada `convertToHex`, com as seguintes características:
-    - A função recebe uma cor por parâmetro, do tipo string. Exemplo: "red";
-    - Escolha 5 cores que serão convertidas do nome da cor para o seu
-    equivalente hexadecimal (pode ser qualquer tom);
-    - Usando a estrutura switch, verifique se a cor passada por parâmetro é
-    algum hexa escolhido. Se for, retorne a frase:
-    "O hexadecimal para a cor [COR] é [HEXADECIMAL].";
-    - Se a cor passada por parâmetro não estiver entre as selecionadas, mostre
-    a frase:
-    "Não temos o equivalente hexadecimal para [COR]."
+Create a function called `convertToHex`, with the following characteristics:
+    - The function receives one color per parameter, of type string. Example: "red";
+    - Choose 5 colors that will be converted from the color name to your
+    hexadecimal equivalent (can be any tone);
+    - Using the switch structure, make sure the color passed by parameter is
+    some hexa chosen. If so, return the sentence:
+    "The hexadecimal for color [COLOR] is [HEXADECIMAL].";
+    - If the color passed by parameter is not selected, show
+    the phrase:
+    "We do not have the hexadecimal equivalent for [COLOR]."
 */
 // ?
 function convertToHex(color) {
@@ -96,7 +96,7 @@ function convertToHex(color) {
 }
 
 /*
-Tente mostrar o hexadecimal de 8 cores diferentes usando a função criada acima.
+Try to display the hexadecimal of 8 different colors using the function created above.
 */
 // ?
 console.log(convertToHex('Black'))
