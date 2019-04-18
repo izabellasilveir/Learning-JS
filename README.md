@@ -49,3 +49,7 @@ Learning-JS
 * [Data Types, Objects, Objects Methods](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-03)
 
 * [Truthy Falsy, Ternary Condition, Variable and Functions Scope](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-04)
+
+* [Function return with Array and Objects, Parameters for Functions like Array and Objects](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-05)
+
+* [Comma operator and Conditional Structure Switch](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-06)
