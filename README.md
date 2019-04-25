@@ -53,3 +53,15 @@ Learning-JS
 * [Function return with Array and Objects, Parameters for Functions like Array and Objects](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-05)
 
 * [Comma operator and Conditional Structure Switch](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-06)
+
+* [The Module Operator, Length property Array, Method push and for Loop in Arrays](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-07)
+
+* [Functional Programming Introduction](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-08)
+
+* [Functions Scope, Hoisting, IIFE](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-09)
+
+* [Wrapper Objects, Typeof](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-10)
+
+* [Ties (Loops), Jumps](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-11)
+
+* [Objects Creation, Object Methods, Arrays - Methods](https://github.com/Matelaa/Learning-JS/tree/master/Exercices%20to%20Fix%20the%20Content/Exercice-12)
