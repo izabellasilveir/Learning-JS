@@ -76,7 +76,7 @@ videoGames.forEach(function(videoGame, index, array) { // Inside forEach pass a 
 // Exercices
 
 // Create a Array who contains the years that Brazil won the cup
-var years = [1959, 1962, 1970, 1994, 2002]
+var years = [1959, 1962, 1970, 1994, 2002, 2003]
 
 // Interact with Array using a loop to show in console this message 'Brazil won the cup of ${year}'
 years.forEach(function(year) {
